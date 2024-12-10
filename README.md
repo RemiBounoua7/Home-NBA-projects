@@ -5,7 +5,7 @@ What I wanted to do with these is simply answer some questions I had, and see if
 Feel free to click on the question that interests you the most, and see if my answers and my methodology help you learn new things. Also, please give me feedbacks, on what things you would've done differently, this helps me get better at it and I can improve my craft.
 
 ### On Rookies, and how can we predict their future success ?
-[An Internal Link to a Section Heading]((https://remibounoua7.github.io/NBA-rookies-stats/))
+[Link](https://remibounoua7.github.io/NBA-rookies-stats/)
 
 ### 'The Championship Corner' : what makes teams title contenders ?
 
