@@ -2,7 +2,7 @@
 This is the HQ from where all my NBA viz projects are hosted. With links referring to every relevant pages / datasets / scripts.
 What I wanted to do with these is simply answer some questions I had, and see if data could shed some light to it all, helping me and everyone learn in the process.
 
-Feel free to click on the question that interests you the most, and see if my answers and my methodology help you learn new things. Also, please give me feedbacks, on what things you would've done differently, this helps me get better at it and I can improve my craft.
+Feel free to click on the image of the question that interests you the most, and see if my answers and my methodology help you learn new things. Also, please give me feedbacks, on what things you would've done differently, how you would've told those stories, framed the subject, explained the technical terms, all of it. This would help me get better and improve my craft, so I would thank you very much for that.
 <br>
 ### 1 - On Rookies, and how can we predict their future success ?
 <br>
