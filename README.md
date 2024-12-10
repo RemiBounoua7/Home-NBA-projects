@@ -6,7 +6,9 @@ Feel free to click on the question that interests you the most, and see if my an
 
 ### On Rookies, and how can we predict their future success ?
 \
-
+<figure>
+<img src="Rookie Success Predictor/Correlation Matrix.png" style="width:400px"/>
+</figure>
 [Link](https://remibounoua7.github.io/NBA-rookies-stats/)
 
 
