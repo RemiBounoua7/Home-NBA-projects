@@ -11,7 +11,7 @@ Feel free to click on the question that interests you the most, and see if my an
 
 ### 'The Championship Corner' : what makes teams title contenders ?
 <br>
-<a href="https://remibounoua7.github.io/NBA-Championship-Corner/"><img src="Champion Golden zone/2025 screenshot.png" style="width:400px" /></a>
+<a href="https://remibounoua7.github.io/NBA-Championship-Corner/"><img src="Champion Golden zone/2025 screenshot.PNG" style="width:400px" /></a>
 
 ### When is it not 'too early to tell' anymore ?
 <br>
