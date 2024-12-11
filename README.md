@@ -1,4 +1,4 @@
-# HUB : NBA Projects
+# NBA Projects HUB 
 This is the Hub from where all my NBA viz projects are hosted. With links referring to every relevant pages / datasets / scripts.
 What I wanted to do with these is simply answer some questions I had, and see if data could shed some light to it all, helping me and everyone learn in the process.
 
