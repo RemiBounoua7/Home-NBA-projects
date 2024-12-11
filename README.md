@@ -5,16 +5,19 @@ What I wanted to do with these is simply answer some questions I had, and see if
 Feel free to click on the image of the question that interests you the most, and see if my answers and my methodology help you learn new things. Also, please give me feedbacks, on what things you would've done differently, how you would've told those stories, framed the subject, explained the technical terms, all of it. This would help me get better and improve my craft, so I would thank you very much for that.
 <br>
 <a href="https://remibounoua7.github.io/NBA-rookies-stats/">
+
 ### 1 - On Rookies, and how can we predict their future success ?
 <br>
 <img src="Rookie Success Predictor/Correlation Matrix.png" style="width:400px" /></a>
 
 <a href="https://remibounoua7.github.io/NBA-Championship-Corner/">
+  
 ### 2 - 'The Championship Corner' : what makes teams title contenders ?
 <br>
 <img src="Champion Golden zone/2025 screenshot.PNG" style="width:400px" /></a>
 
 <a href="https://remibounoua7.github.io/NBA-EarlinessAnalysis/">
+  
 ### 3 - When is it not 'too early to tell' anymore ?
 <br>
 <img src="When is it too early/FalsePos&Neg.png" style="width:400px" /></a>
