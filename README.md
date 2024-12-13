@@ -22,7 +22,7 @@ Feel free to click on the image of the question that interests you the most, and
 <br>
 <a href="https://remibounoua7.github.io/NBA-EarlinessAnalysis/"><img src="When is it too early/FalsePos&Neg.png" style="width:400px" /></a>
 
-### 4 - What makes a Superteam ? Are they successful ?
+### 4 - How often does the favorite wins ?
 Soon to come
 
 Finally, if you have ideas of questions that you ask yourself, that could benefit from the same treatment, please, either do what I did or tell me. I want your ideas to see the light of day, whether through my work or your own. I started this as a hobby because I was inspired by other content creators, so if I can have the same impact for 1 other person, I would be delighted.
