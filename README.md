@@ -26,6 +26,12 @@ Feel free to click on the image of the question that interests you the most, and
 <br>
 <a href="https://remibounoua7.github.io/How-often-does-the-favorite-win-/"><img src="Is it always the favorite that wins/Methods.png" style="width:400px" /></a>
 
+
+### 5 - Dragon Charts FTA
+<br>
+Soon to come 
+
+<br><br>
 Finally, if you have ideas of questions that you ask yourself, that could benefit from the same treatment, please, either do what I did or tell me. I want your ideas to see the light of day, whether through my work or your own. I started this as a hobby because I was inspired by other content creators, so if I can have the same impact for 1 other person, I would be delighted.
 
 Have a nice read !
