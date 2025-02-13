@@ -29,7 +29,7 @@ Feel free to click on the image of the question that interests you the most, and
 
 ### 5 - Contenders App
 <br>
-<a href="https://remibounoua7.github.io/Contenders-App/"><img src="Contenders-App/Thumbnail.png" style="width:400px" /></a>
+<a href="https://contenders-app.streamlit.app/"><img src="Contenders-App/Thumbnail.png" style="width:400px" /></a>
 
 
 <br><br>
